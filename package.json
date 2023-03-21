@@ -2,7 +2,7 @@
   "name": "oneshotlife-apiserver",
   "version": "1.0.0",
   "main": "src/app.ts",
-  "repository": "https://github.com/One-Shot-Life/OneShotLife-ApiServer.git",
+  "repository": "https://github.com/One-Shot-Life/OneShotLife-APIServer.git",
   "author": "steven-yn",
   "license": "MIT",
   "scripts": {
