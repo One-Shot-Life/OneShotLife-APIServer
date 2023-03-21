@@ -22,9 +22,9 @@
 "editor.defaultFormatter": "esbenp.prettier-vscode",
 "editor.codeActionsOnSave": {
 "source.fixAll": true,
+"source.fixAll.eslint": true,
 "source.organizeImports": true
 }
-"editor.codeActionsOnSave": { "source.fixAll.eslint": true },
 "eslint.format.enable": true,
 "eslint.packageManager": "yarn",
 "eslint.probe": ["typescript"]
