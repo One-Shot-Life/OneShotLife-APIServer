@@ -2,9 +2,11 @@
 
 인생은 한방 ! API 서버
 
+브랜치는 git flow 로 일단 설정 해두었고, yarn install 받으시면 됩니닷
+
 ## 세팅방법
 
-1. eslint, prettier 플러그인이 설치가 안되어 있다면 설치해주세요
+1. eslint, prettier 익스텐션이 설치가 안되어 있다면 설치해주세요
 
 2. cmd + shift + p 열고
 
