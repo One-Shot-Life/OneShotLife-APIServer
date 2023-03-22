@@ -48,3 +48,13 @@
 ],
 
 ```
+
+```env
+
+root/.env
+
+DB_HOST=호스트명
+DB_USER=유저명
+DB_PASSWORD=패스워드
+
+```
