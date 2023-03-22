@@ -58,3 +58,6 @@ DB_USER=유저명
 DB_PASSWORD=패스워드
 
 ```
+
+- logger
+- deploy

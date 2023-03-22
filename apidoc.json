@@ -1,0 +1,9 @@
+{
+  "name": "API docs",
+  "version": "1.0.0",
+  "description": "인생은 한방!",
+  "title": "API docs",
+  "url": "http://localhost:4000",
+  "sampleUrl": "http://localhost:4000",
+  "order": ["공통", "주문", "작업"]
+}
